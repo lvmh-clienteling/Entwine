@@ -24,7 +24,5 @@ Pod::Spec.new do |s|
     s.swift_version = "5.5"
 
     s.source_files = 'Sources/EntwineTest/**/*.swift'
-  
-    s.dependency 'StylableSwiftUI'
   end
   
