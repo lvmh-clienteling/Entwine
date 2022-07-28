@@ -24,7 +24,7 @@
 
 #if canImport(Combine)
 
-import Entwine
+import Combine
 
 // MARK: - TestSequence definition
 

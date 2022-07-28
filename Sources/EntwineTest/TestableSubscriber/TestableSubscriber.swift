@@ -25,7 +25,6 @@
 #if canImport(Combine)
 
 import Combine
-import Entwine
 
 // MARK: - TestableSubscriberOptions value definition
 

@@ -28,7 +28,6 @@
 
 #if canImport(Combine)
 
-import Entwine
 import Combine
 
 // MARK: - TestScheduler definition
